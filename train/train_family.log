@@ -1,0 +1,25 @@
+[D12_I405] ['D12_I405_N', 'D12_I405_S'] -> (2147966, 106) [35s]
+  [D12_I405] speed: it=910 RMSE=1.1167 S=0.9553 [209s]
+  [D12_I405] flow: it=907 RMSE=29.7877 S=0.9504 [365s]
+  [D12_I405] density: it=1240 RMSE=0.4582  [582s]
+[D12_I405] saved t1_family_D12_I405.pkl
+[D12_I5] ['D12_I5_N', 'D12_I5_S'] -> (2400000, 106) [654s]
+  [D12_I5] speed: it=2880 RMSE=1.3940 S=0.9442 [1131s]
+  [D12_I5] flow: it=1774 RMSE=25.5807 S=0.9574 [1431s]
+  [D12_I5] density: it=2963 RMSE=0.5546  [1897s]
+[D12_I5] saved t1_family_D12_I5.pkl
+[D7_I10] ['D7_I10_E', 'D7_I10_W'] -> (2400000, 106) [1954s]
+  [D7_I10] speed: it=1268 RMSE=1.3437 S=0.9463 [2192s]
+  [D7_I10] flow: it=1217 RMSE=28.6992 S=0.9522 [2416s]
+  [D7_I10] density: it=2186 RMSE=0.4573  [2797s]
+[D7_I10] saved t1_family_D7_I10.pkl
+[D7_I210] ['D7_I210_E', 'D7_I210_W'] -> (2400000, 106) [2872s]
+  [D7_I210] speed: it=1432 RMSE=1.6327 S=0.9347 [3128s]
+  [D7_I210] flow: it=1010 RMSE=30.3791 S=0.9494 [3314s]
+  [D7_I210] density: it=1426 RMSE=0.5337  [3570s]
+[D7_I210] saved t1_family_D7_I210.pkl
+[D7_I405] ['D7_I405_N', 'D7_I405_S'] -> (2400000, 106) [3658s]
+  [D7_I405] speed: it=2564 RMSE=1.7270 S=0.9309 [4079s]
+  [D7_I405] flow: it=1312 RMSE=33.6862 S=0.9439 [4314s]
+  [D7_I405] density: it=2005 RMSE=0.6357  [4636s]
+[D7_I405] saved t1_family_D7_I405.pkl

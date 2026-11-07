@@ -1,0 +1,15 @@
+  pooled D7_I10_E: 500,000 rows (total 500,000)
+  pooled D7_I10_W: 500,000 rows (total 1,000,000)
+  pooled D7_I210_E: 500,000 rows (total 1,500,000)
+  pooled D7_I210_W: 500,000 rows (total 2,000,000)
+  pooled D7_I405_N: 500,000 rows (total 2,500,000)
+  pooled D7_I405_S: 500,000 rows (total 3,000,000)
+  pooled D12_I5_N: 500,000 rows (total 3,500,000)
+  pooled D12_I5_S: 500,000 rows (total 4,000,000)
+  pooled D12_I405_N: 500,000 rows (total 4,500,000)
+  pooled D12_I405_S: 500,000 rows (total 5,000,000)
+pooled matrix (5000000, 106) (273s)
+  pooled speed: it=2699 RMSE=1.5093 S=0.9396 [1044s]
+  pooled flow: it=1840 RMSE=30.0552 S=0.9499 [1713s]
+  pooled density: it=2999 RMSE=0.5465  [2564s]
+saved D:\BigData Competition\repro_train\out\t1_pooled.pkl

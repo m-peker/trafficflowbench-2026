@@ -1,0 +1,50 @@
+[D7_I10_E] alt (1500000, 106) [33s]
+  [D7_I10_E] speed: it=3994 RMSE=1.4602 S=0.9416 [267s]
+  [D7_I10_E] flow: it=3994 RMSE=30.7548 S=0.9487 [514s]
+  [D7_I10_E] density: it=4000 RMSE=0.5143  [733s]
+[D7_I10_E] saved t1_alt_D7_I10_E.pkl
+[D7_I10_W] alt (1500000, 106) [761s]
+  [D7_I10_W] speed: it=3832 RMSE=1.2668 S=0.9493 [1002s]
+  [D7_I10_W] flow: it=3999 RMSE=27.3593 S=0.9544 [1268s]
+  [D7_I10_W] density: it=3660 RMSE=0.4335  [1503s]
+[D7_I10_W] saved t1_alt_D7_I10_W.pkl
+[D7_I210_E] alt (1500000, 106) [1560s]
+  [D7_I210_E] speed: it=3701 RMSE=1.4275 S=0.9429 [1786s]
+  [D7_I210_E] flow: it=3367 RMSE=31.9653 S=0.9467 [1992s]
+  [D7_I210_E] density: it=3671 RMSE=0.3877  [2205s]
+[D7_I210_E] saved t1_alt_D7_I210_E.pkl
+[D7_I210_W] alt (1500000, 106) [2229s]
+  [D7_I210_W] speed: it=4000 RMSE=1.8463 S=0.9261 [2453s]
+  [D7_I210_W] flow: it=3998 RMSE=29.6037 S=0.9507 [2700s]
+  [D7_I210_W] density: it=3996 RMSE=0.6496  [2912s]
+[D7_I210_W] saved t1_alt_D7_I210_W.pkl
+[D7_I405_N] alt (1500000, 106) [2977s]
+  [D7_I405_N] speed: it=4000 RMSE=1.7541 S=0.9298 [3204s]
+  [D7_I405_N] flow: it=4000 RMSE=36.9455 S=0.9384 [3457s]
+  [D7_I405_N] density: it=4000 RMSE=0.6568  [3680s]
+[D7_I405_N] saved t1_alt_D7_I405_N.pkl
+[D7_I405_S] alt (1500000, 106) [3709s]
+  [D7_I405_S] speed: it=3998 RMSE=1.7408 S=0.9304 [3945s]
+  [D7_I405_S] flow: it=4000 RMSE=30.7011 S=0.9488 [4209s]
+  [D7_I405_S] density: it=3989 RMSE=0.6274  [4429s]
+[D7_I405_S] saved t1_alt_D7_I405_S.pkl
+[D12_I5_N] alt (1500000, 106) [4480s]
+  [D12_I5_N] speed: it=3999 RMSE=1.3511 S=0.9460 [4701s]
+  [D12_I5_N] flow: it=3996 RMSE=25.7599 S=0.9571 [4950s]
+  [D12_I5_N] density: it=4000 RMSE=0.5425  [5163s]
+[D12_I5_N] saved t1_alt_D12_I5_N.pkl
+[D12_I5_S] alt (1500000, 106) [5189s]
+  [D12_I5_S] speed: it=3990 RMSE=1.5151 S=0.9394 [5414s]
+  [D12_I5_S] flow: it=4000 RMSE=26.5203 S=0.9558 [5676s]
+  [D12_I5_S] density: it=3984 RMSE=0.5933  [5893s]
+[D12_I5_S] saved t1_alt_D12_I5_S.pkl
+[D12_I405_N] alt (1500000, 106) [5918s]
+  [D12_I405_N] speed: it=2424 RMSE=0.9351 S=0.9626 [6064s]
+  [D12_I405_N] flow: it=4000 RMSE=21.9004 S=0.9635 [6324s]
+  [D12_I405_N] density: it=3231 RMSE=0.3711  [6515s]
+[D12_I405_N] saved t1_alt_D12_I405_N.pkl
+[D12_I405_S] alt (947966, 106) [6529s]
+  [D12_I405_S] speed: it=2430 RMSE=1.3937 S=0.9443 [6630s]
+  [D12_I405_S] flow: it=3424 RMSE=38.1449 S=0.9364 [6776s]
+  [D12_I405_S] density: it=1956 RMSE=0.5687  [6859s]
+[D12_I405_S] saved t1_alt_D12_I405_S.pkl

@@ -1,0 +1,104 @@
+already complete: []
+to do: ['D7_I10_E', 'D7_I10_W', 'D7_I210_E', 'D7_I210_W', 'D7_I405_N', 'D7_I405_S', 'D12_I5_N', 'D12_I5_S', 'D12_I405_N', 'D12_I405_S']
+[D7_I10_E/train] 78624x146 avail=0.589 targets=2,815,381 used=2,500,000
+  [D7_I10_E] speed: RMSE=1.3789 S=0.9448  rss=1342MB
+  [D7_I10_E] flow: RMSE=29.6679 S=0.9506  rss=1371MB
+  [D7_I10_E] density: RMSE=0.4846 RMSE=0.4846  rss=1420MB
+  [D7_I10_E] S_state(holdout) = 0.9475
+[D7_I10_E/validation] 8928x146 avail=0.565 targets=566,575 used=566,575
+  [D7_I10_E/validation] 337,512 rows, unmatched 0 [1201s] rss=454MB
+[D7_I10_E/private] 8640x146 avail=0.583 targets=526,311 used=526,311
+  [D7_I10_E/private] 303,294 rows, unmatched 0 [1323s] rss=449MB
+[D7_I10_W/train] 78624x107 avail=0.578 targets=2,156,021 used=2,156,021
+  [D7_I10_W] speed: RMSE=1.1999 S=0.9520  rss=1265MB
+  [D7_I10_W] flow: RMSE=26.8141 S=0.9553  rss=1291MB
+  [D7_I10_W] density: RMSE=0.3817 RMSE=0.3817  rss=1249MB
+  [D7_I10_W] S_state(holdout) = 0.9535
+[D7_I10_W/validation] 8928x107 avail=0.578 targets=403,058 used=403,058
+  [D7_I10_W/validation] 233,060 rows, unmatched 0 [2012s] rss=396MB
+[D7_I10_W/private] 8640x107 avail=0.602 targets=368,383 used=368,383
+  [D7_I10_W/private] 203,699 rows, unmatched 0 [2072s] rss=396MB
+[D7_I210_E/train] 78624x297 avail=0.575 targets=6,061,039 used=2,500,000
+  [D7_I210_E] speed: RMSE=1.4210 S=0.9432  rss=1473MB
+  [D7_I210_E] flow: RMSE=30.9011 S=0.9485  rss=1486MB
+  [D7_I210_E] density: RMSE=0.3717 RMSE=0.3717  rss=1407MB
+  [D7_I210_E] S_state(holdout) = 0.9456
+[D7_I210_E/validation] 8928x297 avail=0.588 targets=1,093,428 used=1,093,428
+  [D7_I210_E/validation] 625,014 rows, unmatched 0 [2875s] rss=566MB
+[D7_I210_E/private] 8640x297 avail=0.595 targets=1,039,390 used=1,039,390
+  [D7_I210_E/private] 581,196 rows, unmatched 0 [3026s] rss=563MB
+[D7_I210_W/train] 78624x81 avail=0.588 targets=1,569,035 used=1,569,035
+  [D7_I210_W] speed: RMSE=1.8191 S=0.9272  rss=1099MB
+  [D7_I210_W] flow: RMSE=29.2510 S=0.9512  rss=982MB
+  [D7_I210_W] density: RMSE=0.6328 RMSE=0.6328  rss=1022MB
+  [D7_I210_W] S_state(holdout) = 0.9383
+[D7_I210_W/validation] 8928x81 avail=0.539 targets=333,503 used=333,503
+  [D7_I210_W/validation] 205,973 rows, unmatched 0 [3601s] rss=403MB
+[D7_I210_W/private] 8640x81 avail=0.594 targets=284,208 used=284,208
+  [D7_I210_W/private] 158,901 rows, unmatched 0 [3653s] rss=393MB
+[D7_I405_N/train] 78624x352 avail=0.578 targets=7,114,278 used=2,500,000
+  [D7_I405_N] speed: RMSE=1.6505 S=0.9340  rss=1404MB
+  [D7_I405_N] flow: RMSE=36.3241 S=0.9395  rss=1436MB
+  [D7_I405_N] density: RMSE=0.6264 RMSE=0.6264  rss=1451MB
+  [D7_I405_N] S_state(holdout) = 0.9365
+[D7_I405_N/validation] 8928x352 avail=0.608 targets=1,231,428 used=1,231,428
+  [D7_I405_N/validation] 673,133 rows, unmatched 0 [4842s] rss=623MB
+[D7_I405_N/private] 8640x352 avail=0.579 targets=1,281,560 used=1,281,560
+  [D7_I405_N/private] 746,097 rows, unmatched 0 [5092s] rss=651MB
+[D7_I405_S/train] 78624x109 avail=0.586 targets=2,127,937 used=2,127,937
+  [D7_I405_S] speed: RMSE=1.6783 S=0.9329  rss=1223MB
+  [D7_I405_S] flow: RMSE=30.2975 S=0.9495  rss=1255MB
+  [D7_I405_S] density: RMSE=0.6157 RMSE=0.6157  rss=1284MB
+  [D7_I405_S] S_state(holdout) = 0.9405
+[D7_I405_S/validation] 8928x109 avail=0.544 targets=444,070 used=444,070
+  [D7_I405_S/validation] 271,939 rows, unmatched 0 [5871s] rss=439MB
+[D7_I405_S/private] 8640x109 avail=0.564 targets=410,169 used=410,169
+  [D7_I405_S/private] 243,603 rows, unmatched 0 [5951s] rss=440MB
+[D12_I5_N/train] 78624x258 avail=0.581 targets=5,148,741 used=2,500,000
+  [D12_I5_N] speed: RMSE=1.2209 S=0.9512  rss=1404MB
+  [D12_I5_N] flow: RMSE=24.8308 S=0.9586  rss=1462MB
+  [D12_I5_N] density: RMSE=0.4975 RMSE=0.4975  rss=1485MB
+  [D12_I5_N] S_state(holdout) = 0.9546
+[D12_I5_N/validation] 8928x258 avail=0.567 targets=997,930 used=997,930
+  [D12_I5_N/validation] 588,468 rows, unmatched 0 [7250s] rss=609MB
+[D12_I5_N/private] 8640x258 avail=0.578 targets=940,567 used=940,567
+  [D12_I5_N/private] 543,092 rows, unmatched 0 [7488s] rss=601MB
+[D12_I5_S/train] 78624x100 avail=0.574 targets=2,049,512 used=2,049,512
+  [D12_I5_S] speed: RMSE=1.4089 S=0.9436  rss=1303MB
+  [D12_I5_S] flow: RMSE=25.9096 S=0.9568  rss=1274MB
+  [D12_I5_S] density: RMSE=0.5517 RMSE=0.5517  rss=1320MB
+  [D12_I5_S] S_state(holdout) = 0.9497
+[D12_I5_S/validation] 8928x100 avail=0.577 targets=377,867 used=377,867
+  [D12_I5_S/validation] 219,222 rows, unmatched 0 [8699s] rss=488MB
+[D12_I5_S/private] 8640x100 avail=0.584 targets=359,735 used=359,735
+  [D12_I5_S/private] 204,957 rows, unmatched 0 [8814s] rss=494MB
+[D12_I405_N/train] 78624x89 avail=0.578 targets=1,793,853 used=1,793,853
+  [D12_I405_N] speed: RMSE=0.9035 S=0.9639  rss=1239MB
+  [D12_I405_N] flow: RMSE=21.4793 S=0.9642  rss=1090MB
+  [D12_I405_N] density: RMSE=0.3640 RMSE=0.3640  rss=1232MB
+  [D12_I405_N] S_state(holdout) = 0.9640
+[D12_I405_N/validation] 8928x89 avail=0.579 targets=334,701 used=334,701
+  [D12_I405_N/validation] 203,337 rows, unmatched 0 [9349s] rss=474MB
+[D12_I405_N/private] 8640x89 avail=0.585 targets=319,291 used=319,291
+  [D12_I405_N/private] 192,164 rows, unmatched 0 [9405s] rss=470MB
+[D12_I405_S/train] 78624x44 avail=0.561 targets=947,966 used=947,966
+  [D12_I405_S] speed: RMSE=1.3594 S=0.9456  rss=855MB
+  [D12_I405_S] flow: RMSE=37.8616 S=0.9369  rss=693MB
+  [D12_I405_S] density: RMSE=0.5592 RMSE=0.5592  rss=876MB
+  [D12_I405_S] S_state(holdout) = 0.9416
+[D12_I405_S/validation] 8928x44 avail=0.596 targets=158,662 used=158,662
+  [D12_I405_S/validation] 93,718 rows, unmatched 0 [9644s] rss=466MB
+[D12_I405_S/private] 8640x44 avail=0.552 targets=170,265 used=170,265
+  [D12_I405_S/private] 107,416 rows, unmatched 0 [9664s] rss=468MB
+        panel     speed      flow  density_rmse
+0    D7_I10_E  0.944844  0.950554      0.484610
+1    D7_I10_W  0.952004  0.955310      0.381743
+2   D7_I210_E  0.943161  0.948498      0.371705
+3   D7_I210_W  0.927234  0.951248      0.632777
+4   D7_I405_N  0.933982  0.939460      0.626380
+5   D7_I405_S  0.932867  0.949504      0.615673
+6    D12_I5_N  0.951164  0.958615      0.497496
+7    D12_I5_S  0.943642  0.956817      0.551745
+8  D12_I405_N  0.963859  0.964201      0.364045
+9  D12_I405_S  0.945623  0.936897      0.559169
+mean S_state = done for 10 panels

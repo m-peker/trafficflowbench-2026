@@ -1,0 +1,8 @@
+# Versions the finals were produced with (Python 3.11.5, Windows 11, CUDA 12.4)
+numpy==1.26.4
+pandas==2.0.3
+pyarrow==11.0.0
+scipy==1.11.1
+lightgbm==4.6.0
+torch==2.6.0+cu124   # pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+catboost==1.2.10
